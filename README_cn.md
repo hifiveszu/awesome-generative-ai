@@ -187,12 +187,12 @@
 - [MetaGPT](https://github.com/geekan/MetaGPT) - 多智能体框架：根据一行需求生成 PRD、设计、任务和仓库。
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - 在终端中本地运行 OpenAI 代码解释器。
 - [Continue](https://www.continue.dev/) - 开源 AI 编程助手，可连接任意模型和上下文，实现 IDE 内自定义自动补全和聊天。 [#开源](https://github.com/continuedev/continue)
-- [RooCode][https://github.com/RooCodeInc/Roo-Code] - 集成到 VS Code 的 AI 自主编码代理。 [#开源](https://github.com/RooCodeInc/Roo-Code)
+- [RooCode][https://github.com/RooCodeInc/Roo-Code] - 集成到 VS Code 的 AI 自主编码Agent。 [#开源](https://github.com/RooCodeInc/Roo-Code)
 
 ### 开发者工具
 
 - [co:here](https://cohere.ai/) - 提供高级大型语言模型和 NLP 工具。
-- [Haystack](https://haystack.deepset.ai/) - 构建 NLP 应用（如代理、语义搜索、问答）的框架。
+- [Haystack](https://haystack.deepset.ai/) - 构建 NLP 应用（如Agent、语义搜索、问答）的框架。
 - [LangChain](https://langchain.com/) - 构建语言模型驱动应用的框架。
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - 基于大量干净的助理数据（代码、故事、对话）训练的聊天机器人。
 - [LLM App](https://github.com/pathwaycom/llm-app) - 开源 Python 库，用于构建实时 LLM 数据管道。
@@ -224,7 +224,7 @@
 - [Open WebUI](https://github.com/open-webui/open-webui) - 可扩展、功能丰富、用户友好的自托管 AI 平台，可完全离线运行。 #开源
 - [Jan](https://jan.ai/) - 在本地离线运行 Mistral 或 Llama2 等 LLM，或连接远程 AI API。 [#开源](https://github.com/janhq/jan)
 - [Msty](https://msty.app/) - 简单强大的本地和在线 AI 模型界面。
-- [PyGPT](https://pygpt.net/) - 桌面个人 AI 助手，支持聊天、视觉、代理、图像生成、工具和命令、语音控制等。 #开源
+- [PyGPT](https://pygpt.net/) - 桌面个人 AI 助手，支持聊天、视觉、Agent、图像生成、工具和命令、语音控制等。 #开源
 - [LLM](https://llm.datasette.io/) - CLI 工具和 Python 库，用于本地或远程大型语言模型交互。 [#开源](https://github.com/simonw/llm)
 - [LM Studio](https://lmstudio.ai) - 在电脑上下载并运行本地 LLM。
 
@@ -234,19 +234,19 @@
 
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - 一个实验性开源项目，尝试让 GPT-4 完全自主运行。
 - [babyagi](https://github.com/yoheinakajima/babyagi) - AI 驱动的任务管理系统。
-- [AgentGPT](https://github.com/reworkd/AgentGPT) - 在浏览器中组装、配置并部署自主 AI 代理。
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - 在浏览器中组装、配置并部署自主 AI Agent。
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - 指定构建需求，AI 提出澄清问题，然后完成构建。
 - [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) - 自动化提示工程，生成、测试并排名提示，以找到最佳提示。
 - [MetaGPT](https://github.com/geekan/MetaGPT) - 多智能体框架：输入一行需求，返回 PRD、设计、任务和代码仓库。
 - [AutoGen](https://github.com/microsoft/autogen) - 框架，可使用多个智能体相互对话来解决任务，开发 LLM 应用。
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - 开发工具，可从零开始生成可扩展应用，开发者监督实现过程。
 - [Devin](https://devin.ai/) - Cognition Labs 开发的自主 AI 软件工程师。
-- [OpenDevin](https://github.com/OpenDevin/OpenDevin) - 用于处理软件工程复杂性的自主代理。 #开源
-- [Davika](https://github.com/stitionai/devika) - 具备代理能力的 AI 软件工程师。 #开源
+- [OpenDevin](https://github.com/OpenDevin/OpenDevin) - 用于处理软件工程复杂性的自主Agent。 #开源
+- [Davika](https://github.com/stitionai/devika) - 具备Agent能力的 AI 软件工程师。 #开源
 
 ### 自定义 AI 智能体
 
-- [GPTBots.ai](https://www.gptbots.ai) - 无代码企业平台，用于构建 AI 代理。支持 GPT-5、DeepSeek 等领先模型，提供知识管理、自定义工具、workflow AI 工作流自动化和企业 RBAC 权限控制，并可无缝连接 钉钉、企业微信、WhatsApp、Telegram 等平台。
+- [GPTBots.ai](https://www.gptbots.ai) - 无代码企业智能体平台，用于构建 AI Agent。支持 GPT-5、DeepSeek 等领先模型，提供知识管理、自定义工具、workflow AI 工作流自动化和企业 RBAC 权限控制，并可无缝连接 钉钉、企业微信、WhatsApp、Telegram 等平台。
 - [Poe](https://poe.com/) - 提供多种 AI 机器人访问。
 - [GPT Builder](https://chat.openai.com/gpts/editor) - 用于创建基于 GPT 的助手。
 - [GPTStore](https://gptstore.ai/) - 查找有用的 GPT，分享自己的 GPT。
